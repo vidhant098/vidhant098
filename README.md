@@ -2,7 +2,8 @@
 🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack and exploring real-world problem-solving projects like food platforms and custom marker detection systems.<br><br>👯 I’m looking to collaborate on<br>Innovative web development projects, startup ideas, and anything related to scalable backend systems or creative frontend experiences.<br><br>🤝 I’m looking for help with<br>Improving my problem-solving skills in Data Structures & Algorithms (especially medium-level problems) and preparing for technical interviews.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, backend optimization, and diving deeper into system design while strengthening my DSA foundation.<br><br>💬 Ask me about<br>MERN stack development, REST APIs, project building, or how to start coding from scratch.<br><br>⚡ Fun fact<br>I enjoy building tech solutions and constantly pushing myself toward my goal of landing a high-paying developer role 🚀
 
 portfolio: https://portfolio-phi-orcin-96.vercel.app/
- fod based reel platform :    https://food-based-reels-platform.vercel.app/
+ fod based reel platform :  
+ https://food-based-reels-platform.vercel.app/
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhantshrivas1@gmail.com) 
